@@ -1,6 +1,7 @@
 .listButtons {
     list-style: none;
     margin: 5px;
+    text-align: center;
 }
 
 .buttons {
@@ -13,3 +14,19 @@
     text-decoration: none;
     border: none;
 }
+
+.player {
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    font-weight: 500;
+    background-color: rgb(0, 94, 156);
+    color: white;
+}
+
+.moves {
+    width: 200px;
+    margin: 20px auto;
+}
+
+

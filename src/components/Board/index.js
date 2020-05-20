@@ -3,7 +3,7 @@ import Square from '../Square'
 
 function Board({ squares, onClick }) {
     const style = {
-        border: '4px solid #001a66',
+        border: '4px solid rgb(0, 94, 156)',
         borderRadius: '10px',
         width: '250px',
         height: '250px',

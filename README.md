@@ -2,7 +2,9 @@
 
 Este jogo foi desenvolvido com base no tutorial presente na plataforma Scrimba, com algumas modificações.
 
-Build Tic Tac Toe with React Hooks [https://scrimba.com/course/greactgame/enrolled](https://scrimba.com/course/greactgame/enrolled)
+Link para o jogo: [https://yesminmarie.github.io/reactjs-tic-tac-toe/](https://yesminmarie.github.io/reactjs-tic-tac-toe/)
+
+Link para o tutorial do Scrimba: [Build Tic Tac Toe with React Hooks](https://scrimba.com/course/greactgame/enrolled)
 
 ## Resultado Final
 

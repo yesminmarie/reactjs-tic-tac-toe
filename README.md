@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 ## Jogo da Velha desenvolvido com Reactjs (utilizando Hooks)
 
 Este jogo foi desenvolvido com base no tutorial presente na plataforma Scrimba, com algumas modificações.
